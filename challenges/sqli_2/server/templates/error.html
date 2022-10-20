@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+
+{% block title %}Error{% endblock %}
+
+{% block content %}
+    <article class="message is-danger">
+        <div class="message-header">
+            <p>Error</p>
+        </div>
+        <pre class="message-body">{{ error }}</pre>
+    </article>
+{% endblock %}

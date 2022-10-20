@@ -1,0 +1,2 @@
+C:\Users\oshaw\Documents\development\intakectf_2022\rev\simple_dotnet\SimpleDotNet\SimpleDotNet\bin\Release\net6.0\publish\win-x64\SimpleDotNet.pdb
+C:\Users\oshaw\Documents\development\intakectf_2022\rev\simple_dotnet\SimpleDotNet\SimpleDotNet\bin\Release\net6.0\publish\win-x64\SimpleDotNet.exe

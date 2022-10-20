@@ -1,0 +1,33 @@
+{% extends "base.html" %}
+
+{% block title %}Home{% endblock %}
+
+{% block content %}
+    <form method="POST">
+        <div class="field">
+            <div class="control">
+                <input class="input" name="username" placeholder="Username" type="text">
+            </div>
+        </div>
+        <div class="field">
+            <div class="control">
+                <input class="input" name="password" placeholder="Password" type="password">
+            </div>
+        </div>
+        <div class="field">
+            <div class="control is-fullwidth">
+                <button class="button is-fullwidth is-success" name="submit" type="submit" value="login">Login</button>
+            </div>
+        </div>
+        <div class="field">
+            <div class="control is-fullwidth">
+                <button class="button is-fullwidth" name="submit" type="submit" value="register">Register</button>
+            </div>
+        </div>
+        {% if message is defined %}
+            <div class="notification is-danger">
+                {{ message }}
+            </div>
+        {% endif %}
+    </form>
+{% endblock %}

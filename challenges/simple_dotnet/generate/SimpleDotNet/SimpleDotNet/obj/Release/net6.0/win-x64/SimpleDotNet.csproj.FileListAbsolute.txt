@@ -1,0 +1,15 @@
+C:\Users\oshaw\Documents\development\intakectf_2022\rev\simple_dotnet\SimpleDotNet\SimpleDotNet\bin\Release\net6.0\win-x64\SimpleDotNet.exe
+C:\Users\oshaw\Documents\development\intakectf_2022\rev\simple_dotnet\SimpleDotNet\SimpleDotNet\bin\Release\net6.0\win-x64\SimpleDotNet.deps.json
+C:\Users\oshaw\Documents\development\intakectf_2022\rev\simple_dotnet\SimpleDotNet\SimpleDotNet\bin\Release\net6.0\win-x64\SimpleDotNet.runtimeconfig.json
+C:\Users\oshaw\Documents\development\intakectf_2022\rev\simple_dotnet\SimpleDotNet\SimpleDotNet\bin\Release\net6.0\win-x64\SimpleDotNet.dll
+C:\Users\oshaw\Documents\development\intakectf_2022\rev\simple_dotnet\SimpleDotNet\SimpleDotNet\bin\Release\net6.0\win-x64\SimpleDotNet.pdb
+C:\Users\oshaw\Documents\development\intakectf_2022\rev\simple_dotnet\SimpleDotNet\SimpleDotNet\obj\Release\net6.0\win-x64\SimpleDotNet.csproj.AssemblyReference.cache
+C:\Users\oshaw\Documents\development\intakectf_2022\rev\simple_dotnet\SimpleDotNet\SimpleDotNet\obj\Release\net6.0\win-x64\SimpleDotNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oshaw\Documents\development\intakectf_2022\rev\simple_dotnet\SimpleDotNet\SimpleDotNet\obj\Release\net6.0\win-x64\SimpleDotNet.AssemblyInfoInputs.cache
+C:\Users\oshaw\Documents\development\intakectf_2022\rev\simple_dotnet\SimpleDotNet\SimpleDotNet\obj\Release\net6.0\win-x64\SimpleDotNet.AssemblyInfo.cs
+C:\Users\oshaw\Documents\development\intakectf_2022\rev\simple_dotnet\SimpleDotNet\SimpleDotNet\obj\Release\net6.0\win-x64\SimpleDotNet.csproj.CoreCompileInputs.cache
+C:\Users\oshaw\Documents\development\intakectf_2022\rev\simple_dotnet\SimpleDotNet\SimpleDotNet\obj\Release\net6.0\win-x64\SimpleDotNet.dll
+C:\Users\oshaw\Documents\development\intakectf_2022\rev\simple_dotnet\SimpleDotNet\SimpleDotNet\obj\Release\net6.0\win-x64\refint\SimpleDotNet.dll
+C:\Users\oshaw\Documents\development\intakectf_2022\rev\simple_dotnet\SimpleDotNet\SimpleDotNet\obj\Release\net6.0\win-x64\SimpleDotNet.pdb
+C:\Users\oshaw\Documents\development\intakectf_2022\rev\simple_dotnet\SimpleDotNet\SimpleDotNet\obj\Release\net6.0\win-x64\SimpleDotNet.genruntimeconfig.cache
+C:\Users\oshaw\Documents\development\intakectf_2022\rev\simple_dotnet\SimpleDotNet\SimpleDotNet\obj\Release\net6.0\win-x64\ref\SimpleDotNet.dll

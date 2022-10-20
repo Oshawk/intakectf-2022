@@ -1,0 +1,28 @@
+{% extends "base.html" %}
+
+{% block title %}Home{% endblock %}
+
+{% block content %}
+    <form action="/search" class="mb-2" method="GET">
+        <div class="field has-addons">
+            <div class="control is-expanded">
+                <input class="input is-fullwidth" name="query" placeholder="Search" type="text">
+            </div>
+            <div class="control">
+                <button class="button is-primary" type="submit">Go</button>
+            </div>
+        </div>
+    </form>
+    <article class="message is-info">
+        <div class="message-header">
+            <p>Info</p>
+        </div>
+        <div class="message-body">
+            Get the "flag" column from the "flag" table.
+            <br>
+            The database is reset every minute.
+            <br>
+            The following characters will be blocked: <code>-</code>, <code>/</code>, <code>*</code>, <code>;</code>, <code>\</code>, <code>union</code>
+        </div>
+    </article>
+{% endblock %}

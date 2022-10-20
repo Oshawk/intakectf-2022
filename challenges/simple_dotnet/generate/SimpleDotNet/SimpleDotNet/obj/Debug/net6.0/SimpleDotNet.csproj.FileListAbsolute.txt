@@ -1,0 +1,15 @@
+C:\Users\oshaw\Documents\development\intakectf_2022\rev\simple_dotnet\SimpleDotNet\SimpleDotNet\bin\Debug\net6.0\SimpleDotNet.exe
+C:\Users\oshaw\Documents\development\intakectf_2022\rev\simple_dotnet\SimpleDotNet\SimpleDotNet\bin\Debug\net6.0\SimpleDotNet.deps.json
+C:\Users\oshaw\Documents\development\intakectf_2022\rev\simple_dotnet\SimpleDotNet\SimpleDotNet\bin\Debug\net6.0\SimpleDotNet.runtimeconfig.json
+C:\Users\oshaw\Documents\development\intakectf_2022\rev\simple_dotnet\SimpleDotNet\SimpleDotNet\bin\Debug\net6.0\SimpleDotNet.dll
+C:\Users\oshaw\Documents\development\intakectf_2022\rev\simple_dotnet\SimpleDotNet\SimpleDotNet\bin\Debug\net6.0\SimpleDotNet.pdb
+C:\Users\oshaw\Documents\development\intakectf_2022\rev\simple_dotnet\SimpleDotNet\SimpleDotNet\obj\Debug\net6.0\SimpleDotNet.csproj.AssemblyReference.cache
+C:\Users\oshaw\Documents\development\intakectf_2022\rev\simple_dotnet\SimpleDotNet\SimpleDotNet\obj\Debug\net6.0\SimpleDotNet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\oshaw\Documents\development\intakectf_2022\rev\simple_dotnet\SimpleDotNet\SimpleDotNet\obj\Debug\net6.0\SimpleDotNet.AssemblyInfoInputs.cache
+C:\Users\oshaw\Documents\development\intakectf_2022\rev\simple_dotnet\SimpleDotNet\SimpleDotNet\obj\Debug\net6.0\SimpleDotNet.AssemblyInfo.cs
+C:\Users\oshaw\Documents\development\intakectf_2022\rev\simple_dotnet\SimpleDotNet\SimpleDotNet\obj\Debug\net6.0\SimpleDotNet.csproj.CoreCompileInputs.cache
+C:\Users\oshaw\Documents\development\intakectf_2022\rev\simple_dotnet\SimpleDotNet\SimpleDotNet\obj\Debug\net6.0\SimpleDotNet.dll
+C:\Users\oshaw\Documents\development\intakectf_2022\rev\simple_dotnet\SimpleDotNet\SimpleDotNet\obj\Debug\net6.0\refint\SimpleDotNet.dll
+C:\Users\oshaw\Documents\development\intakectf_2022\rev\simple_dotnet\SimpleDotNet\SimpleDotNet\obj\Debug\net6.0\SimpleDotNet.pdb
+C:\Users\oshaw\Documents\development\intakectf_2022\rev\simple_dotnet\SimpleDotNet\SimpleDotNet\obj\Debug\net6.0\SimpleDotNet.genruntimeconfig.cache
+C:\Users\oshaw\Documents\development\intakectf_2022\rev\simple_dotnet\SimpleDotNet\SimpleDotNet\obj\Debug\net6.0\ref\SimpleDotNet.dll

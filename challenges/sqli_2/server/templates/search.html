@@ -1,0 +1,13 @@
+{% extends "base.html" %}
+
+{% block title %}Search{% endblock %}
+
+{% block content %}
+    {% for quote in quotes %}
+        <div class="card mb-2">
+            <div class="card-content">
+                <div class="content">{{ quote }}</div>
+            </div>
+        </div>
+    {% endfor %}
+{% endblock %}

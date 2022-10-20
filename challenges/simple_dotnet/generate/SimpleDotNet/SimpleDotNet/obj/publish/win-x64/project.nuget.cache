@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "EQr2Nbn1YIRVNeoQ5c4DUjlWIZceLeuTzsZ1HLsCwsRoTPmX43VJhTg5TIq6tHhzAvGvI6olf9nX1c0x4NB81A==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\oshaw\\Documents\\development\\intakectf_2022\\rev\\simple_dotnet\\SimpleDotNet\\SimpleDotNet\\SimpleDotNet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\oshaw\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.9\\microsoft.netcore.app.runtime.win-x64.6.0.9.nupkg.sha512",
+    "C:\\Users\\oshaw\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.9\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.9.nupkg.sha512",
+    "C:\\Users\\oshaw\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.9\\microsoft.aspnetcore.app.runtime.win-x64.6.0.9.nupkg.sha512",
+    "C:\\Users\\oshaw\\.nuget\\packages\\microsoft.netcore.app.crossgen2.win-x64\\6.0.9\\microsoft.netcore.app.crossgen2.win-x64.6.0.9.nupkg.sha512"
+  ],
+  "logs": []
+}

